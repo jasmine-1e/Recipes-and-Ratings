@@ -1,2 +1,5 @@
 # Recipes-and-Ratings
-This is a project for DSC80 at UCSD.  (due 12/11)
+---
+title: Using Reviews and Ratings to Predict Recipe Characteristcs   
+---
+This is a project for DSC80 at UCSD.  Still TBD
