@@ -4,3 +4,5 @@ plugins:
 
 #kitian616/jekyll-TeXt-theme
 #theme: 
+include:
+ - README.md
