@@ -1,8 +1,12 @@
-remote_theme : kitian616/jekyll-TeXt-theme
+remote_theme: pages-themes/cayman@v0.2.0
 plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
+- jekyll-remote-theme 
+
+#remote_theme : kitian616/jekyll-TeXt-theme
+#plugins:
+#- jekyll-remote-theme # add this line to the plugins list if you already have one
 
 #kitian616/jekyll-TeXt-theme
 #theme: 
-include:
- - README.md
+#include:
+# - README.md
