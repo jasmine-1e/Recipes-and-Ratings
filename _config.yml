@@ -1,31 +1,4 @@
-remote_theme: daattali/beautiful-jekyll@6.0.1
+remote_theme: kitian616/jekyll-TeXt-theme
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 
-author: 'Jasmine Le'
-title: 'Recipe Ratings and Reviews'
-
-rss: false
-
-social-network-links:
-  email: "jasmine.le369@gmail.com"
-
-share-links-active:
-  twitter: true
-  facebook: true
-  linkedin: true
-  vk: false
-  reddit: false
-
-
-
-
-page-col: "#FFFFFF"
-text-col: "#141414"
-link-col: "#0564eb"
-hover-col: "#0085A1"
-#navbar-col: "#EAEAEA"
-footer-col: "##bf7e3d"
-footer-text-col: "#777777"
-footer-link-col: "#404040"
-footer-hover-col: "#0085A1"
