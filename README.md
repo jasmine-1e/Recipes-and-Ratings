@@ -3,7 +3,7 @@ layout: article
 title: Page - Article Header Overlay Background Image (Immersive + Translucent Header)
 mode: immersive
 header:
-	theme: dark
+  theme: dark
 article_header: Ratings & Reviews - What's The Recipe For Success?
   type: overlay
   theme: dark
